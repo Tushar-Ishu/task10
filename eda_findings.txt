@@ -1,0 +1,11 @@
+EDA Task 10 Findings
+
+Dataset: Students Performance
+
+- Dataset loaded successfully
+- No missing values found
+- Summary statistics generated
+- Outliers detected using IQR method
+- Outliers removed for clean analysis
+- Strong correlation observed between reading and writing scores
+- Cleaned dataset exported successfully
